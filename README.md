@@ -1,3 +1,5 @@
+[![Visits Badge](https://badges.pufler.dev/visits/NarutoOp/order1)](https://badges.pufler.dev/visits/NarutoOp/order1)
+
 # Output
 ![image](https://user-images.githubusercontent.com/55342994/103915584-67b38e00-5131-11eb-8c64-f994112b2541.png) 
 
